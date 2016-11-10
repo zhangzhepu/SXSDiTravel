@@ -18,3 +18,9 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+#eclipse 生成文件
+.classpath
+.project
+/.settings
+/.classpath
+/.project
